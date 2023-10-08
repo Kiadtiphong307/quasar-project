@@ -22,7 +22,7 @@ export default {
 
   data() {
     return {
-      title: 'Vue is awesome.',
+      title: 'Kiadtiphong_307',
     }
   },
 }

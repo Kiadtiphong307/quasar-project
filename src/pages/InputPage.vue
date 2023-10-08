@@ -14,7 +14,7 @@ export default {
   name: 'InputPage',
   data() {
     return {
-      title: 'Vue is awesome.',
+      title: 'Kiadtiphong_307',
       firstName: '',
       secondName: '',
     }

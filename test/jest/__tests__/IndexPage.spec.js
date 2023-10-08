@@ -9,7 +9,7 @@ describe('IndexPage', () => {
     let header = wrapper.find('.htmlClass h1')
     expect(header.exists()).toBe(true)
     expect(header.text())
-      .toBe('Vue is awesome.')
+      .toBe('Kiadtiphong_307')
   })
 
   it('check text content to be as defined in variable', () => {
